@@ -13,3 +13,4 @@ This plugin introduces a native function all other plugins can use for logging m
 ## Credits
 * [Christian Deacon](https://www.linkedin.com/in/christian-deacon-902042186/) - Creator
 * Ariistuujj
+* [Blueberry](https://github.com/Blueberryy) - Russian translation file.
